@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T13:28:00Z",
+  "lastUpdated": "2026-07-04T13:29:00Z",
   "stats": {
     "created14d": 190,
     "created28d": 415,
@@ -24,5 +24,5 @@
     "level": "ELEVATED",
     "color": "yellow"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false}, {"name": "Jacob Howlett", "availability": "Offline", "activity": "Offline", "outOfOffice": false}, {"name": "Jake Tiffany", "availability": "Offline", "activity": "Offline", "outOfOffice": false}, {"name": "Hyrum Heelis", "availability": "Offline", "activity": "Offline", "outOfOffice": false}]
+  "presence": [{"name": "Jona Monette", "availability": "DoNotDisturb", "activity": "DoNotDisturb", "outOfOffice": false}, {"name": "Jacob Howlett", "availability": "Offline", "activity": "Offline", "outOfOffice": false}, {"name": "Jake Tiffany", "availability": "Offline", "activity": "Offline", "outOfOffice": false}, {"name": "Hyrum Heelis", "availability": "Offline", "activity": "Offline", "outOfOffice": false}]
 }
