@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-10T18:07:00Z",
+  "lastUpdated": "2026-07-10T18:08:00Z",
   "stats": {
     "created14d": 185,
     "created28d": 402,
     "resolved14d": 164,
     "resolved28d": 391,
-    "actionable": 23,
-    "pendingOnHold": 63
+    "actionable": 22,
+    "pendingOnHold": 64
   },
   "trend": {
     "labels": ["Jun 13", "Jun 14", "Jun 15", "Jun 16", "Jun 17", "Jun 18", "Jun 19", "Jun 20", "Jun 21", "Jun 22", "Jun 23", "Jun 24", "Jun 25", "Jun 26", "Jun 27", "Jun 28", "Jun 29", "Jun 30", "Jul 1", "Jul 2", "Jul 3", "Jul 4", "Jul 5", "Jul 6", "Jul 7", "Jul 8", "Jul 9", "Jul 10"],
@@ -14,15 +14,15 @@
     "resolved": [11, 10, 17, 15, 16, 23, 21, 11, 11, 13, 19, 15, 29, 21, 6, 11, 17, 10, 6, 18, 9, 12, 1, 9, 8, 11, 18, 17]
   },
   "statusBreakdown": {
-    "pendingCustomer": 30,
+    "pendingCustomer": 31,
     "onHold": 33,
-    "open": 16,
+    "open": 15,
     "workInProgress": 7
   },
   "workload": {
-    "count": 23,
+    "count": 22,
     "level": "ELEVATED",
     "color": "yellow"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "Busy", "outOfOffice": false, "assignedActionable": 7}, {"name": "Jacob Howlett", "availability": "OutOfOffice", "activity": "OutOfOffice", "outOfOffice": true, "assignedActionable": 0}, {"name": "Jake Tiffany", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 8}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}]
+  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "Busy", "outOfOffice": false, "assignedActionable": 6}, {"name": "Jacob Howlett", "availability": "OutOfOffice", "activity": "OutOfOffice", "outOfOffice": true, "assignedActionable": 0}, {"name": "Jake Tiffany", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 8}, {"name": "Hyrum Heelis", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 4}]
 }
