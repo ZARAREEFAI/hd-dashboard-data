@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-07-15T16:38:00Z",
+  "lastUpdated": "2026-07-15T16:39:01Z",
   "stats": {
     "created14d": 188,
     "created28d": 391,
-    "resolved14d": 188,
-    "resolved28d": 410,
-    "actionable": 27,
+    "resolved14d": 189,
+    "resolved28d": 411,
+    "actionable": 26,
     "pendingOnHold": 63
   },
   "trend": {
     "labels": ["Jun 18", "Jun 19", "Jun 20", "Jun 21", "Jun 22", "Jun 23", "Jun 24", "Jun 25", "Jun 26", "Jun 27", "Jun 28", "Jun 29", "Jun 30", "Jul 1", "Jul 2", "Jul 3", "Jul 4", "Jul 5", "Jul 6", "Jul 7", "Jul 8", "Jul 9", "Jul 10", "Jul 11", "Jul 12", "Jul 13", "Jul 14", "Jul 15"],
     "created": [18, 3, 0, 1, 38, 24, 15, 20, 8, 1, 3, 25, 19, 18, 12, 5, 1, 0, 22, 17, 28, 17, 29, 0, 1, 25, 17, 5],
-    "resolved": [23, 21, 11, 11, 13, 19, 15, 29, 21, 6, 11, 17, 10, 6, 18, 9, 12, 1, 9, 8, 11, 18, 27, 17, 13, 22, 15, 3]
+    "resolved": [23, 21, 11, 11, 13, 19, 15, 29, 21, 6, 11, 17, 10, 6, 18, 9, 12, 1, 9, 8, 11, 18, 27, 17, 13, 22, 15, 4]
   },
   "statusBreakdown": {
     "pendingCustomer": 38,
     "onHold": 25,
     "open": 19,
-    "workInProgress": 8
+    "workInProgress": 7
   },
   "workload": {
-    "count": 27,
+    "count": 26,
     "level": "HIGH",
     "color": "orange"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "Busy", "outOfOffice": false, "assignedActionable": 8}, {"name": "Jacob Howlett", "availability": "Away", "activity": "Away", "outOfOffice": true, "assignedActionable": 3}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 8}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 7}]
+  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "Busy", "outOfOffice": false, "assignedActionable": 8}, {"name": "Jacob Howlett", "availability": "Away", "activity": "Away", "outOfOffice": true, "assignedActionable": 3}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 7}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 7}]
 }
