@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T23:58:01Z",
+  "lastUpdated": "2026-07-17T23:59:00Z",
   "stats": {
     "created14d": 224,
     "created28d": 414,
@@ -24,5 +24,5 @@
     "level": "ELEVATED",
     "color": "yellow"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 7}, {"name": "Jacob Howlett", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 1}, {"name": "Jake Tiffany", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 1}, {"name": "Hyrum Heelis", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 10}]
+  "presence": [{"name": "Jona Monette", "availability": "AvailableIdle", "activity": "Inactive", "outOfOffice": false, "assignedActionable": 7}, {"name": "Jacob Howlett", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 1}, {"name": "Jake Tiffany", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 1}, {"name": "Hyrum Heelis", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 10}]
 }
