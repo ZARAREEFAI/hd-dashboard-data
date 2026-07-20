@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-20T17:10:00Z",
+  "lastUpdated": "2026-07-20T17:11:00Z",
   "stats": {
     "created14d": 237,
     "created28d": 413,
     "resolved14d": 234,
-    "resolved28d": 418,
+    "resolved28d": 419,
     "actionable": 30,
     "pendingOnHold": 55
   },
@@ -16,8 +16,8 @@
   "statusBreakdown": {
     "pendingCustomer": 37,
     "onHold": 18,
-    "open": 19,
-    "workInProgress": 11
+    "open": 18,
+    "workInProgress": 12
   },
   "workload": {
     "count": 30,
