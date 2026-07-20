@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-20T20:54:00Z",
+  "lastUpdated": "2026-07-20T20:55:00Z",
   "stats": {
     "created14d": 236,
     "created28d": 406,
     "resolved14d": 238,
     "resolved28d": 421,
-    "actionable": 16,
+    "actionable": 7,
     "pendingOnHold": 65
   },
   "trend": {
@@ -16,20 +16,20 @@
   "statusBreakdown": {
     "pendingCustomer": 37,
     "onHold": 28,
-    "open": 9,
+    "open": 1,
     "backlog": 0,
-    "workInProgress": 7,
-    "escalated": 6
+    "workInProgress": 6,
+    "escalated": 13
   },
   "workload": {
-    "count": 16,
+    "count": 7,
     "level": "NORMAL",
     "color": "green"
   },
   "sysadminWorkload": {
-    "count": 6,
-    "level": "ELEVATED",
-    "color": "yellow"
+    "count": 13,
+    "level": "CRITICAL",
+    "color": "red"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 0}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 2}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 7}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 0}]
+  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 0}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 2}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 0}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 0}]
 }
