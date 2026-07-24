@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-23T23:59:00Z",
+  "lastUpdated": "2026-07-24T00:00:00Z",
   "stats": {
     "created14d": 214,
     "created28d": 393,
     "resolved14d": 251,
     "resolved28d": 410,
     "actionable": 27,
-    "pendingOnHold": 51
+    "pendingOnHold": 52
   },
   "trend": {
     "labels": ["Jun 26", "Jun 27", "Jun 28", "Jun 29", "Jun 30", "Jul 1", "Jul 2", "Jul 3", "Jul 4", "Jul 5", "Jul 6", "Jul 7", "Jul 8", "Jul 9", "Jul 10", "Jul 11", "Jul 12", "Jul 13", "Jul 14", "Jul 15", "Jul 16", "Jul 17", "Jul 18", "Jul 19", "Jul 20", "Jul 21", "Jul 22", "Jul 23"],
@@ -15,7 +15,7 @@
   },
   "statusBreakdown": {
     "pendingCustomer": 25,
-    "onHold": 26,
+    "onHold": 27,
     "open": 4,
     "backlog": 0,
     "workInProgress": 8,
