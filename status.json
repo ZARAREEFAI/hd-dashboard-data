@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T15:50:00Z",
+  "lastUpdated": "2026-07-24T15:51:00Z",
   "stats": {
     "created14d": 212,
     "created28d": 391,
@@ -31,5 +31,5 @@
     "level": "CRITICAL",
     "color": "red"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jacob Howlett", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 2}, {"name": "Jake Tiffany", "availability": "Away", "activity": "OutOfOffice", "outOfOffice": true, "assignedActionable": 5}, {"name": "Hyrum Heelis", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 10}, {"name": "Ian Johnson", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 2}]
+  "presence": [{"name": "Jona Monette", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jacob Howlett", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 2}, {"name": "Jake Tiffany", "availability": "Away", "activity": "OutOfOffice", "outOfOffice": true, "assignedActionable": 5}, {"name": "Hyrum Heelis", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 10}, {"name": "Ian Johnson", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 2}]
 }
