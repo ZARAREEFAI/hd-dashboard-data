@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-17T19:50:00Z",
+  "lastUpdated": "2026-08-17T19:51:00Z",
   "stats": {
     "created14d": 156,
     "created28d": 321,
     "resolved14d": 159,
     "resolved28d": 349,
-    "actionable": 27,
-    "pendingOnHold": 32
+    "actionable": 26,
+    "pendingOnHold": 33
   },
   "trend": {
     "labels": ["Jul 21", "Jul 22", "Jul 23", "Jul 24", "Jul 25", "Jul 26", "Jul 27", "Jul 28", "Jul 29", "Jul 30", "Jul 31", "Aug 1", "Aug 2", "Aug 3", "Aug 4", "Aug 5", "Aug 6", "Aug 7", "Aug 8", "Aug 9", "Aug 10", "Aug 11", "Aug 12", "Aug 13", "Aug 14", "Aug 15", "Aug 16", "Aug 17"],
@@ -15,14 +15,14 @@
   },
   "statusBreakdown": {
     "pendingCustomer": 18,
-    "onHold": 14,
-    "open": 7,
+    "onHold": 15,
+    "open": 6,
     "backlog": 0,
     "workInProgress": 4,
     "escalated": 16
   },
   "workload": {
-    "count": 11,
+    "count": 10,
     "level": "NORMAL",
     "color": "green"
   },
