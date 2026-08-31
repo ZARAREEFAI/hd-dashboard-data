@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-31T16:06:00Z",
+  "lastUpdated": "2026-08-31T16:07:00Z",
   "stats": {
     "created14d": 195,
     "created28d": 346,
     "resolved14d": 152,
     "resolved28d": 315,
-    "actionable": 49,
+    "actionable": 48,
     "pendingOnHold": 36
   },
   "trend": {
@@ -16,13 +16,13 @@
   "statusBreakdown": {
     "pendingCustomer": 27,
     "onHold": 9,
-    "open": 32,
+    "open": 31,
     "backlog": 0,
     "workInProgress": 0,
     "escalated": 17
   },
   "workload": {
-    "count": 32,
+    "count": 31,
     "level": "HIGH",
     "color": "orange"
   },
