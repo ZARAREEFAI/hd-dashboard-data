@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-09-02T16:27:00Z",
+  "lastUpdated": "2026-09-02T16:28:00Z",
   "stats": {
-    "created14d": 195,
-    "created28d": 357,
-    "resolved14d": 170,
-    "resolved28d": 321,
-    "actionable": 40,
-    "pendingOnHold": 45
+    "created14d": 194,
+    "created28d": 356,
+    "resolved14d": 171,
+    "resolved28d": 322,
+    "actionable": 37,
+    "pendingOnHold": 46
   },
   "trend": {
     "labels": ["Aug 6", "Aug 7", "Aug 8", "Aug 9", "Aug 10", "Aug 11", "Aug 12", "Aug 13", "Aug 14", "Aug 15", "Aug 16", "Aug 17", "Aug 18", "Aug 19", "Aug 20", "Aug 21", "Aug 22", "Aug 23", "Aug 24", "Aug 25", "Aug 26", "Aug 27", "Aug 28", "Aug 29", "Aug 30", "Aug 31", "Sep 1", "Sep 2"],
-    "created": [15, 7, 0, 0, 18, 20, 18, 18, 8, 1, 2, 22, 19, 15, 17, 18, 2, 0, 26, 20, 13, 13, 17, 1, 6, 14, 32, 7],
-    "resolved": [11, 9, 0, 0, 23, 14, 21, 18, 16, 6, 5, 15, 10, 12, 16, 20, 3, 4, 18, 18, 11, 17, 14, 4, 5, 12, 21, 8]
+    "created": [15, 7, 0, 0, 18, 20, 18, 18, 8, 1, 2, 22, 19, 15, 17, 18, 2, 0, 26, 20, 13, 13, 17, 1, 6, 14, 32, 6],
+    "resolved": [11, 9, 0, 0, 23, 14, 21, 18, 16, 6, 5, 15, 10, 12, 16, 20, 3, 4, 18, 18, 11, 17, 14, 4, 5, 12, 21, 9]
   },
   "statusBreakdown": {
     "pendingCustomer": 31,
-    "onHold": 14,
-    "open": 22,
+    "onHold": 15,
+    "open": 21,
     "backlog": 0,
-    "workInProgress": 4,
-    "escalated": 14
+    "workInProgress": 3,
+    "escalated": 13
   },
   "workload": {
-    "count": 26,
-    "level": "HIGH",
-    "color": "orange"
+    "count": 24,
+    "level": "ELEVATED",
+    "color": "yellow"
   },
   "sysadminWorkload": {
-    "count": 14,
+    "count": 13,
     "level": "CRITICAL",
     "color": "red"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "Busy", "outOfOffice": false, "assignedActionable": 11}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 8}, {"name": "Jake Tiffany", "availability": "Offline", "activity": "Offline", "outOfOffice": true, "assignedActionable": 0}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 7}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}]
+  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "Busy", "outOfOffice": false, "assignedActionable": 11}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 7}, {"name": "Jake Tiffany", "availability": "Offline", "activity": "Offline", "outOfOffice": true, "assignedActionable": 0}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 6}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}]
 }
