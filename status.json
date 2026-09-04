@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-09-04T19:33:00Z",
+  "lastUpdated": "2026-09-04T19:34:01Z",
   "stats": {
-    "created14d": 193,
-    "created28d": 363,
+    "created14d": 192,
+    "created28d": 362,
     "resolved14d": 176,
     "resolved28d": 345,
-    "actionable": 26,
-    "pendingOnHold": 48
+    "actionable": 24,
+    "pendingOnHold": 49
   },
   "trend": {
     "labels": ["Aug 8", "Aug 9", "Aug 10", "Aug 11", "Aug 12", "Aug 13", "Aug 14", "Aug 15", "Aug 16", "Aug 17", "Aug 18", "Aug 19", "Aug 20", "Aug 21", "Aug 22", "Aug 23", "Aug 24", "Aug 25", "Aug 26", "Aug 27", "Aug 28", "Aug 29", "Aug 30", "Aug 31", "Sep 1", "Sep 2", "Sep 3", "Sep 4"],
-    "created": [0, 0, 18, 20, 18, 18, 8, 1, 2, 22, 19, 15, 17, 18, 2, 0, 26, 20, 13, 13, 17, 1, 6, 14, 32, 19, 14, 7],
+    "created": [0, 0, 18, 20, 18, 18, 8, 1, 2, 22, 19, 15, 17, 18, 2, 0, 26, 20, 13, 13, 17, 1, 6, 14, 32, 19, 14, 6],
     "resolved": [0, 0, 23, 14, 21, 18, 16, 6, 5, 15, 10, 12, 16, 20, 3, 4, 18, 18, 11, 17, 14, 4, 5, 12, 21, 23, 18, 10]
   },
   "statusBreakdown": {
-    "pendingCustomer": 27,
+    "pendingCustomer": 28,
     "onHold": 21,
-    "open": 14,
+    "open": 11,
     "backlog": 0,
-    "workInProgress": 1,
+    "workInProgress": 2,
     "escalated": 11
   },
   "workload": {
-    "count": 15,
+    "count": 13,
     "level": "NORMAL",
     "color": "green"
   },
@@ -31,5 +31,5 @@
     "level": "HIGH",
     "color": "orange"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jacob Howlett", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 7}, {"name": "Jake Tiffany", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 0}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 2}]
+  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jacob Howlett", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 7}, {"name": "Jake Tiffany", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 0}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 1}]
 }
