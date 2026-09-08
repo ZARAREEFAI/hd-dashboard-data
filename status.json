@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-08T12:33:00Z",
+  "lastUpdated": "2026-09-08T12:34:00Z",
   "stats": {
     "created14d": 168,
     "created28d": 354,
     "resolved14d": 157,
     "resolved28d": 333,
-    "actionable": 15,
+    "actionable": 27,
     "pendingOnHold": 41
   },
   "trend": {
@@ -19,7 +19,7 @@
     "open": 13,
     "backlog": 0,
     "workInProgress": 2,
-    "escalated": 
+    "escalated": 12
   },
   "workload": {
     "count": 15,
@@ -27,9 +27,9 @@
     "color": "green"
   },
   "sysadminWorkload": {
-    "count": ,
-    "level": "CRITICAL",
-    "color": "red"
+    "count": 12,
+    "level": "HIGH",
+    "color": "orange"
   },
   "presence": [{"name": "Jona Monette", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 4}, {"name": "Jacob Howlett", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jake Tiffany", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 0}, {"name": "Hyrum Heelis", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 4}, {"name": "Ian Johnson", "availability": "Offline", "activity": "Offline", "outOfOffice": false, "assignedActionable": 0}]
 }
