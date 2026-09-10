@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-10T17:05:00Z",
+  "lastUpdated": "2026-09-10T17:06:00Z",
   "stats": {
     "created14d": 218,
     "created28d": 396,
     "resolved14d": 197,
     "resolved28d": 365,
-    "actionable": 35,
+    "actionable": 36,
     "pendingOnHold": 48
   },
   "trend": {
@@ -19,7 +19,7 @@
     "open": 9,
     "backlog": 0,
     "workInProgress": 13,
-    "escalated": 13
+    "escalated": 14
   },
   "workload": {
     "count": 22,
@@ -27,9 +27,9 @@
     "color": "yellow"
   },
   "sysadminWorkload": {
-    "count": 13,
+    "count": 14,
     "level": "CRITICAL",
     "color": "red"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 0}, {"name": "Jacob Howlett", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 14}, {"name": "Jake Tiffany", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 0}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 6}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": true, "assignedActionable": 3}]
+  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 0}, {"name": "Jacob Howlett", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 14}, {"name": "Jake Tiffany", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 0}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 6}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": true, "assignedActionable": 2}]
 }
