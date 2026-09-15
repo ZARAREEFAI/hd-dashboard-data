@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-15T16:58:00Z",
+  "lastUpdated": "2026-09-15T16:59:00Z",
   "stats": {
     "created14d": 251,
     "created28d": 434,
-    "resolved14d": 244,
-    "resolved28d": 417,
-    "actionable": 29,
+    "resolved14d": 245,
+    "resolved28d": 418,
+    "actionable": 27,
     "pendingOnHold": 35
   },
   "trend": {
@@ -18,13 +18,13 @@
     "onHold": 12,
     "open": 15,
     "backlog": 0,
-    "workInProgress": 4,
+    "workInProgress": 2,
     "escalated": 10
   },
   "workload": {
-    "count": 19,
-    "level": "ELEVATED",
-    "color": "yellow"
+    "count": 17,
+    "level": "NORMAL",
+    "color": "green"
   },
   "sysadminWorkload": {
     "count": 10,
