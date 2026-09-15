@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-15T16:45:00Z",
+  "lastUpdated": "2026-09-15T16:46:01Z",
   "stats": {
     "created14d": 249,
     "created28d": 432,
-    "resolved14d": 242,
-    "resolved28d": 415,
-    "actionable": 28,
+    "resolved14d": 243,
+    "resolved28d": 416,
+    "actionable": 27,
     "pendingOnHold": 36
   },
   "trend": {
@@ -16,20 +16,20 @@
   "statusBreakdown": {
     "pendingCustomer": 24,
     "onHold": 12,
-    "open": 15,
+    "open": 14,
     "backlog": 0,
     "workInProgress": 3,
     "escalated": 10
   },
   "workload": {
-    "count": 18,
-    "level": "ELEVATED",
-    "color": "yellow"
+    "count": 17,
+    "level": "NORMAL",
+    "color": "green"
   },
   "sysadminWorkload": {
     "count": 10,
     "level": "HIGH",
     "color": "orange"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 2}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 1}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 3}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 8}, {"name": "Ian Johnson", "availability": "Away", "activity": "OutOfOffice", "outOfOffice": true, "assignedActionable": 2}]
+  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 2}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 1}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 8}, {"name": "Ian Johnson", "availability": "Away", "activity": "OutOfOffice", "outOfOffice": true, "assignedActionable": 2}]
 }
