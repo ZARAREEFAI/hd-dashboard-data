@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-17T13:30:01Z",
+  "lastUpdated": "2026-09-17T13:31:00Z",
   "stats": {
     "created14d": 239,
     "created28d": 435,
-    "resolved14d": 227,
-    "resolved28d": 411,
-    "actionable": 22,
-    "pendingOnHold": 48
+    "resolved14d": 236,
+    "resolved28d": 420,
+    "actionable": 30,
+    "pendingOnHold": 40
   },
   "trend": {
     "labels": ["Aug 21", "Aug 22", "Aug 23", "Aug 24", "Aug 25", "Aug 26", "Aug 27", "Aug 28", "Aug 29", "Aug 30", "Aug 31", "Sep 1", "Sep 2", "Sep 3", "Sep 4", "Sep 5", "Sep 6", "Sep 7", "Sep 8", "Sep 9", "Sep 10", "Sep 11", "Sep 12", "Sep 13", "Sep 14", "Sep 15", "Sep 16", "Sep 17"],
@@ -15,16 +15,16 @@
   },
   "statusBreakdown": {
     "pendingCustomer": 29,
-    "onHold": 19,
-    "open": 8,
+    "onHold": 11,
+    "open": 16,
     "backlog": 0,
     "workInProgress": 2,
     "escalated": 12
   },
   "workload": {
-    "count": 10,
-    "level": "NORMAL",
-    "color": "green"
+    "count": 18,
+    "level": "ELEVATED",
+    "color": "yellow"
   },
   "sysadminWorkload": {
     "count": 12,
