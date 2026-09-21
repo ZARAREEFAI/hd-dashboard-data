@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T01:01:00Z",
+  "lastUpdated": "2026-09-21T01:02:00Z",
   "stats": {
     "created14d": 247,
     "created28d": 436,
@@ -16,9 +16,9 @@
   "statusBreakdown": {
     "pendingCustomer": 26,
     "onHold": 13,
-    "open": 9,
+    "open": 8,
     "backlog": 0,
-    "workInProgress": 6,
+    "workInProgress": 7,
     "escalated": 12
   },
   "workload": {
