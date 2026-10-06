@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-06T16:15:00Z",
+  "lastUpdated": "2026-10-06T16:16:01Z",
   "stats": {
-    "created14d": 191,
-    "created28d": 447,
+    "created14d": 192,
+    "created28d": 448,
     "resolved14d": 171,
     "resolved28d": 437,
-    "actionable": 29,
+    "actionable": 28,
     "pendingOnHold": 34
   },
   "trend": {
@@ -18,11 +18,11 @@
     "onHold": 8,
     "open": 13,
     "backlog": 0,
-    "workInProgress": 7,
+    "workInProgress": 6,
     "escalated": 9
   },
   "workload": {
-    "count": 20,
+    "count": 19,
     "level": "ELEVATED",
     "color": "yellow"
   },
@@ -31,5 +31,5 @@
     "level": "HIGH",
     "color": "orange"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 2}, {"name": "Jacob Howlett", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 6}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 9}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 8}, {"name": "Ian Johnson", "availability": "Offline", "activity": "Offline", "outOfOffice": true, "assignedActionable": 0}]
+  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 2}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 5}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 9}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 8}, {"name": "Ian Johnson", "availability": "Offline", "activity": "Offline", "outOfOffice": true, "assignedActionable": 0}]
 }
