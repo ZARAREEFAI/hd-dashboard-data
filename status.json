@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T16:36:01Z",
+  "lastUpdated": "2026-10-06T16:37:01Z",
   "stats": {
     "created14d": 196,
     "created28d": 449,
@@ -16,18 +16,18 @@
   "statusBreakdown": {
     "pendingCustomer": 30,
     "onHold": 9,
-    "open": 7,
+    "open": 6,
     "backlog": 0,
     "workInProgress": 9,
-    "escalated": 9
+    "escalated": 10
   },
   "workload": {
-    "count": 16,
+    "count": 15,
     "level": "NORMAL",
     "color": "green"
   },
   "sysadminWorkload": {
-    "count": 9,
+    "count": 10,
     "level": "HIGH",
     "color": "orange"
   },
