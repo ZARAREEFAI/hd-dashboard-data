@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-18T22:15:00Z",
+  "lastUpdated": "2026-10-18T22:16:00Z",
   "stats": {
-    "created14d": 216,
-    "created28d": 393,
+    "created14d": 215,
+    "created28d": 392,
     "resolved14d": 192,
     "resolved28d": 390,
-    "actionable": 18,
+    "actionable": 16,
     "pendingOnHold": 52
   },
   "trend": {
@@ -16,13 +16,13 @@
   "statusBreakdown": {
     "pendingCustomer": 34,
     "onHold": 18,
-    "open": 6,
+    "open": 4,
     "backlog": 0,
     "workInProgress": 2,
     "escalated": 10
   },
   "workload": {
-    "count": 8,
+    "count": 6,
     "level": "NORMAL",
     "color": "green"
   },
