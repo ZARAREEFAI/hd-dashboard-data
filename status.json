@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-20T16:00:01Z",
+  "lastUpdated": "2026-10-20T16:01:01Z",
   "stats": {
-    "created14d": 232,
-    "created28d": 421,
+    "created14d": 230,
+    "created28d": 420,
     "resolved14d": 189,
     "resolved28d": 377,
-    "actionable": 34,
+    "actionable": 33,
     "pendingOnHold": 45
   },
   "trend": {
@@ -16,20 +16,20 @@
   "statusBreakdown": {
     "pendingCustomer": 36,
     "onHold": 9,
-    "open": 24,
+    "open": 22,
     "backlog": 0,
     "workInProgress": 1,
-    "escalated": 9
+    "escalated": 10
   },
   "workload": {
-    "count": 25,
-    "level": "HIGH",
-    "color": "orange"
+    "count": 23,
+    "level": "ELEVATED",
+    "color": "yellow"
   },
   "sysadminWorkload": {
-    "count": 9,
+    "count": 10,
     "level": "HIGH",
     "color": "orange"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 4}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jake Tiffany", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 5}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 10}, {"name": "Ian Johnson", "availability": "Offline", "activity": "Offline", "outOfOffice": true, "assignedActionable": 0}]
+  "presence": [{"name": "Jona Monette", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 4}, {"name": "Jacob Howlett", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 7}, {"name": "Jake Tiffany", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 5}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 10}, {"name": "Ian Johnson", "availability": "Offline", "activity": "Offline", "outOfOffice": true, "assignedActionable": 0}]
 }
