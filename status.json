@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-29T05:59:00Z",
+  "lastUpdated": "2026-10-29T06:00:00Z",
   "stats": {
     "created14d": 287,
     "created28d": 498,
-    "resolved14d": 280,
-    "resolved28d": 477,
+    "resolved14d": 264,
+    "resolved28d": 468,
     "actionable": 22,
     "pendingOnHold": 56
   },
   "trend": {
-    "labels": ["Oct 1", "Oct 2", "Oct 3", "Oct 4", "Oct 5", "Oct 6", "Oct 7", "Oct 8", "Oct 9", "Oct 10", "Oct 11", "Oct 12", "Oct 13", "Oct 14", "Oct 15", "Oct 16", "Oct 17", "Oct 18", "Oct 19", "Oct 20", "Oct 21", "Oct 22", "Oct 23", "Oct 24", "Oct 25", "Oct 26", "Oct 27", "Oct 28"],
-    "created": [7, 15, 1, 3, 28, 27, 25, 22, 20, 0, 0, 7, 23, 33, 17, 6, 2, 1, 34, 38, 21, 44, 25, 0, 5, 38, 33, 23],
-    "resolved": [9, 32, 2, 5, 15, 23, 20, 23, 19, 6, 4, 3, 16, 24, 17, 17, 2, 6, 29, 22, 16, 29, 40, 9, 8, 37, 38, 14]
+    "labels": ["Oct 2", "Oct 3", "Oct 4", "Oct 5", "Oct 6", "Oct 7", "Oct 8", "Oct 9", "Oct 10", "Oct 11", "Oct 12", "Oct 13", "Oct 14", "Oct 15", "Oct 16", "Oct 17", "Oct 18", "Oct 19", "Oct 20", "Oct 21", "Oct 22", "Oct 23", "Oct 24", "Oct 25", "Oct 26", "Oct 27", "Oct 28", "Oct 29"],
+    "created": [15, 1, 3, 28, 27, 25, 22, 20, 0, 0, 7, 23, 33, 17, 6, 2, 1, 34, 38, 21, 44, 25, 0, 5, 38, 33, 23, 0],
+    "resolved": [32, 2, 5, 15, 23, 20, 23, 19, 6, 4, 3, 16, 24, 17, 17, 2, 6, 29, 22, 16, 29, 40, 9, 8, 37, 38, 14, 0]
   },
   "statusBreakdown": {
     "pendingCustomer": 31,
