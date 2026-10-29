@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-29T19:15:01Z",
+  "lastUpdated": "2026-10-29T19:16:00Z",
   "stats": {
     "created14d": 290,
     "created28d": 500,
     "resolved14d": 283,
     "resolved28d": 487,
-    "actionable": 28,
+    "actionable": 27,
     "pendingOnHold": 46
   },
   "trend": {
@@ -19,7 +19,7 @@
     "open": 7,
     "backlog": 0,
     "workInProgress": 9,
-    "escalated": 12
+    "escalated": 11
   },
   "workload": {
     "count": 16,
@@ -27,7 +27,7 @@
     "color": "green"
   },
   "sysadminWorkload": {
-    "count": 12,
+    "count": 11,
     "level": "HIGH",
     "color": "orange"
   },
