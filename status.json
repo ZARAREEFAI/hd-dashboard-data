@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-11-03T05:59:00Z",
+  "lastUpdated": "2026-11-03T06:00:00Z",
   "stats": {
     "created14d": 291,
     "created28d": 500,
-    "resolved14d": 292,
-    "resolved28d": 497,
+    "resolved14d": 270,
+    "resolved28d": 475,
     "actionable": 19,
     "pendingOnHold": 47
   },
