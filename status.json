@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-05T20:11:00Z",
+  "lastUpdated": "2026-11-05T20:12:00Z",
   "stats": {
     "created14d": 239,
     "created28d": 478,
     "resolved14d": 262,
     "resolved28d": 468,
-    "actionable": 22,
+    "actionable": 21,
     "pendingOnHold": 45
   },
   "trend": {
@@ -18,11 +18,11 @@
     "onHold": 12,
     "open": 4,
     "backlog": 0,
-    "workInProgress": 2,
+    "workInProgress": 1,
     "escalated": 16
   },
   "workload": {
-    "count": 6,
+    "count": 5,
     "level": "NORMAL",
     "color": "green"
   },
