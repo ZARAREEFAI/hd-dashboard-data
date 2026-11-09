@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-11-09T18:08:01Z",
+  "lastUpdated": "2026-11-09T18:09:00Z",
   "stats": {
     "created14d": 211,
     "created28d": 481,
     "resolved14d": 213,
     "resolved28d": 480,
-    "actionable": 31,
-    "pendingOnHold": 30
+    "actionable": 33,
+    "pendingOnHold": 29
   },
   "trend": {
     "labels": ["Oct 13", "Oct 14", "Oct 15", "Oct 16", "Oct 17", "Oct 18", "Oct 19", "Oct 20", "Oct 21", "Oct 22", "Oct 23", "Oct 24", "Oct 25", "Oct 26", "Oct 27", "Oct 28", "Oct 29", "Oct 30", "Oct 31", "Nov 1", "Nov 2", "Nov 3", "Nov 4", "Nov 5", "Nov 6", "Nov 7", "Nov 8", "Nov 9"],
     "created": [23, 33, 17, 6, 2, 1, 34, 38, 21, 44, 25, 0, 5, 38, 33, 22, 18, 14, 0, 0, 28, 21, 16, 10, 17, 1, 1, 8],
-    "resolved": [16, 24, 17, 17, 2, 6, 29, 22, 17, 30, 40, 9, 8, 38, 39, 14, 26, 25, 8, 5, 19, 9, 14, 16, 23, 6, 6, 5]
+    "resolved": [16, 24, 17, 17, 2, 6, 29, 22, 17, 30, 40, 9, 8, 38, 39, 14, 26, 25, 8, 5, 19, 9, 14, 16, 23, 6, 6, 6]
   },
   "statusBreakdown": {
-    "pendingCustomer": 25,
+    "pendingCustomer": 24,
     "onHold": 5,
-    "open": 10,
+    "open": 12,
     "backlog": 0,
     "workInProgress": 3,
     "escalated": 18
   },
   "workload": {
-    "count": 13,
+    "count": 15,
     "level": "NORMAL",
     "color": "green"
   },
