@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-10T16:53:00Z",
+  "lastUpdated": "2026-11-10T16:54:01Z",
   "stats": {
     "created14d": 204,
-    "created28d": 487,
+    "created28d": 486,
     "resolved14d": 193,
     "resolved28d": 483,
     "actionable": 27,
@@ -16,9 +16,9 @@
   "statusBreakdown": {
     "pendingCustomer": 25,
     "onHold": 9,
-    "open": 6,
+    "open": 5,
     "backlog": 0,
-    "workInProgress": 6,
+    "workInProgress": 7,
     "escalated": 15
   },
   "workload": {
