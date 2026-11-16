@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-11-16T17:40:00Z",
+  "lastUpdated": "2026-11-16T17:41:00Z",
   "stats": {
-    "created14d": 191,
-    "created28d": 480,
+    "created14d": 192,
+    "created28d": 481,
     "resolved14d": 176,
     "resolved28d": 468,
-    "actionable": 29,
+    "actionable": 30,
     "pendingOnHold": 33
   },
   "trend": {
     "labels": ["Oct 20", "Oct 21", "Oct 22", "Oct 23", "Oct 24", "Oct 25", "Oct 26", "Oct 27", "Oct 28", "Oct 29", "Oct 30", "Oct 31", "Nov 1", "Nov 2", "Nov 3", "Nov 4", "Nov 5", "Nov 6", "Nov 7", "Nov 8", "Nov 9", "Nov 10", "Nov 11", "Nov 12", "Nov 13", "Nov 14", "Nov 15", "Nov 16"],
-    "created": [38, 21, 44, 25, 0, 5, 38, 33, 22, 18, 14, 0, 0, 28, 21, 16, 10, 17, 1, 1, 25, 14, 6, 14, 32, 5, 1, 8],
+    "created": [38, 21, 44, 25, 0, 5, 38, 33, 22, 18, 14, 0, 0, 28, 21, 16, 10, 17, 1, 1, 25, 14, 6, 14, 32, 5, 1, 9],
     "resolved": [22, 17, 30, 40, 9, 8, 38, 39, 14, 26, 25, 8, 5, 19, 9, 14, 16, 22, 6, 6, 20, 16, 6, 18, 31, 6, 2, 6]
   },
   "statusBreakdown": {
     "pendingCustomer": 23,
     "onHold": 10,
-    "open": 20,
+    "open": 21,
     "backlog": 0,
     "workInProgress": 0,
     "escalated": 9
   },
   "workload": {
-    "count": 20,
+    "count": 21,
     "level": "ELEVATED",
     "color": "yellow"
   },
@@ -31,5 +31,5 @@
     "level": "HIGH",
     "color": "orange"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 2}, {"name": "Levi Lawson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jake Tiffany", "availability": "AvailableIdle", "activity": "Inactive", "outOfOffice": false, "assignedActionable": 2}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}]
+  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 3}, {"name": "Levi Lawson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jake Tiffany", "availability": "AvailableIdle", "activity": "Inactive", "outOfOffice": false, "assignedActionable": 2}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}]
 }
