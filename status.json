@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T17:44:00Z",
+  "lastUpdated": "2026-11-17T17:45:00Z",
   "stats": {
     "created14d": 194,
     "created28d": 460,
@@ -16,20 +16,20 @@
   "statusBreakdown": {
     "pendingCustomer": 26,
     "onHold": 10,
-    "open": 14,
+    "open": 13,
     "backlog": 0,
     "workInProgress": 0,
-    "escalated": 7
+    "escalated": 8
   },
   "workload": {
-    "count": 14,
+    "count": 13,
     "level": "NORMAL",
     "color": "green"
   },
   "sysadminWorkload": {
-    "count": 7,
-    "level": "ELEVATED",
-    "color": "yellow"
+    "count": 8,
+    "level": "HIGH",
+    "color": "orange"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 1}, {"name": "Levi Lawson", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 5}, {"name": "Jake Tiffany", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 6}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 5}, {"name": "Ian Johnson", "availability": "Offline", "activity": "Offline", "outOfOffice": true, "assignedActionable": 1}]
+  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 1}, {"name": "Levi Lawson", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 5}, {"name": "Jake Tiffany", "availability": "Away", "activity": "Away", "outOfOffice": false, "assignedActionable": 6}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 5}, {"name": "Ian Johnson", "availability": "Offline", "activity": "Offline", "outOfOffice": true, "assignedActionable": 1}]
 }
