@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-19T16:58:01Z",
+  "lastUpdated": "2026-11-19T16:59:00Z",
   "stats": {
     "created14d": 209,
     "created28d": 458,
     "resolved14d": 213,
     "resolved28d": 479,
-    "actionable": 24,
-    "pendingOnHold": 35
+    "actionable": 23,
+    "pendingOnHold": 36
   },
   "trend": {
     "labels": ["Oct 23", "Oct 24", "Oct 25", "Oct 26", "Oct 27", "Oct 28", "Oct 29", "Oct 30", "Oct 31", "Nov 1", "Nov 2", "Nov 3", "Nov 4", "Nov 5", "Nov 6", "Nov 7", "Nov 8", "Nov 9", "Nov 10", "Nov 11", "Nov 12", "Nov 13", "Nov 14", "Nov 15", "Nov 16", "Nov 17", "Nov 18", "Nov 19"],
@@ -14,15 +14,15 @@
     "resolved": [40, 9, 8, 38, 39, 14, 26, 25, 8, 5, 20, 9, 14, 16, 22, 6, 6, 20, 15, 6, 18, 31, 6, 2, 28, 20, 27, 9]
   },
   "statusBreakdown": {
-    "pendingCustomer": 23,
+    "pendingCustomer": 24,
     "onHold": 12,
     "open": 8,
     "backlog": 0,
-    "workInProgress": 7,
+    "workInProgress": 6,
     "escalated": 9
   },
   "workload": {
-    "count": 15,
+    "count": 14,
     "level": "NORMAL",
     "color": "green"
   },
@@ -31,5 +31,5 @@
     "level": "HIGH",
     "color": "orange"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 8}, {"name": "Levi Lawson", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 1}, {"name": "Jake Tiffany", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 6}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 6}, {"name": "Ian Johnson", "availability": "Away", "activity": "OutOfOffice", "outOfOffice": true, "assignedActionable": 0}]
+  "presence": [{"name": "Jona Monette", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 7}, {"name": "Levi Lawson", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 1}, {"name": "Jake Tiffany", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 6}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 6}, {"name": "Ian Johnson", "availability": "Away", "activity": "OutOfOffice", "outOfOffice": true, "assignedActionable": 0}]
 }
