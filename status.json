@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-24T17:39:00Z",
+  "lastUpdated": "2026-11-24T17:40:00Z",
   "stats": {
-    "created14d": 228,
-    "created28d": 429,
+    "created14d": 227,
+    "created28d": 428,
     "resolved14d": 212,
     "resolved28d": 415,
-    "actionable": 32,
+    "actionable": 31,
     "pendingOnHold": 36
   },
   "trend": {
@@ -16,20 +16,20 @@
   "statusBreakdown": {
     "pendingCustomer": 30,
     "onHold": 6,
-    "open": 12,
+    "open": 11,
     "backlog": 0,
     "workInProgress": 6,
     "escalated": 14
   },
   "workload": {
-    "count": 18,
-    "level": "ELEVATED",
-    "color": "yellow"
+    "count": 17,
+    "level": "NORMAL",
+    "color": "green"
   },
   "sysadminWorkload": {
     "count": 14,
     "level": "CRITICAL",
     "color": "red"
   },
-  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": true, "assignedActionable": 3}, {"name": "Levi Lawson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 2}, {"name": "Jake Tiffany", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 7}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 10}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}]
+  "presence": [{"name": "Jona Monette", "availability": "Available", "activity": "Available", "outOfOffice": true, "assignedActionable": 3}, {"name": "Levi Lawson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 3}, {"name": "Jake Tiffany", "availability": "Busy", "activity": "InAMeeting", "outOfOffice": false, "assignedActionable": 7}, {"name": "Hyrum Heelis", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 10}, {"name": "Ian Johnson", "availability": "Available", "activity": "Available", "outOfOffice": false, "assignedActionable": 4}]
 }
